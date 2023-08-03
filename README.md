@@ -1,2 +1,3 @@
 # Javascript
-All about Javascript
+Covering concepts of javascript.
+
